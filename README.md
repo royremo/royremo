@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @royremo
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science | Machine Learning | AI
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
+- 💞️ I’m looking to collaborate on AI Projects
 
 
 <!---
